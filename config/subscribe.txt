@@ -1,17 +1,67 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://ghproxy.cc/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://ghproxy.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+# APTV
+https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+
+# iptv-org/iptv
+https://iptv-org.github.io/iptv/countries/cn.m3u
+https://gh-proxy.com/raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+
+# suxuang/myIPTV
+https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+
+# kimwang1978/collect-tv-txt
+https://live.iptv365.org/live.m3u
+
+# xzw832/cmys
+https://gh-proxy.com/raw.githubusercontent.com/xzw832/cmys/main/cctv.m3u
+https://gh-proxy.com/raw.githubusercontent.com/xzw832/cmys/main/itvlist.m3u
+https://gh-proxy.com/raw.githubusercontent.com/xzw832/cmys/main/qita.m3u
+https://gh-proxy.com/raw.githubusercontent.com/xzw832/cmys/main/weishi.m3u
+
+# asdjkl6/tv
+https://gh-proxy.com/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://gh-proxy.com/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+
+# yuanzl77/IPTV
+https://gh-proxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
+
+# fanmingming/live
+https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u
+https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u
+
+# vbskycn/iptv
+https://live.zbds.top/tv/iptv6.m3u
+https://live.zbds.top/tv/iptv4.m3u
+
+# YueChan/Live
+https://gh-proxy.com/raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+
+# inkss/0cf33e9f52fbb1f91bc5eb0144e504cf
+https://gh-proxy.com/gist.githubusercontent.com/inkss/0cf33e9f52fbb1f91bc5eb0144e504cf/raw/ipv6.m3u
+https://gh-proxy.com/gist.githubusercontent.com/inkss/0cf33e9f52fbb1f91bc5eb0144e504cf/raw/ipv4.m3u
+
+# abc1763613206/myiptv
+https://cdn.jsdelivr.net/gh/abc1763613206/myiptv@latest/utf8/merged-simple.txt
+
+# Meroser/IPTV
+https://gh-proxy.com/raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u
+
+# 
+https://s.netimed.cn/iptv
+
+# wwb521/live
+https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u
+
+# DangJin/awesome-iptv
+https://gh-proxy.com/raw.githubusercontent.com/DangJin/awesome-iptv/refs/heads/main/IPTV.m3u
+
+# Free-TV/IPTV
+https://gh-proxy.com/raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+
+# 
+https://live.hacks.tools/tv/iptv6.m3u
+https://live.hacks.tools/tv/iptv4.m3u
+
